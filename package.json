@@ -1,6 +1,6 @@
 {
   "name": "truncand",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility to truncate list of strings and append remaining count",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -27,7 +27,7 @@
   "bugs": {
     "url": "https://github.com/HCoban/truncand/issues"
   },
-  "homepage": "https://github.com/HCoban/truncand#readme",
+  "homepage": "https://github.com/HCoban/truncand",
   "devDependencies": {
     "@types/jest": "^24.9.0",
     "jest": "^24.9.0",
