@@ -29,5 +29,5 @@ If you want to pass a common descriptor you can do so by
 ```
 const list = ["Oksana", "Ada", "Marie", "Rosalind"]
 const limit = 2
-truncand(list, limit, { descriptionSingular: "other", descriptionPlural: "others" }) // returns "Oksana, Ada, Marie and 2 others"
+truncand(list, limit, { descriptionSingular: "other", descriptionPlural: "others" }) // returns "Oksana, Ada and 2 others"
 ```
